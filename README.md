@@ -2,7 +2,8 @@
 - 👀 I’m interested in Frontend Web Development.
 - 🌱 I've completed my html & csss learning. I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on .
-- 📫 U can e-mail me at abdulrafay500p@gmail.
+- 📫 U can e-mail me at abdulrafay500p@gmail.com
+- 
   
 
 <!---
