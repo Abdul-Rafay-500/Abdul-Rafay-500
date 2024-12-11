@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Abdul-Rafay.
-- 👀 I’m interested in Frontend Web Development.
-- 🌱 I've completed my html & csss learning. I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate on .
+- 👀 I’m interested in Web Development.
+- 🌱 I've completed my html & css & javascript learning. I’m currently practicing projects in javascript. .
 - 📫 U can e-mail me at abdulrafay500p@gmail.com
 - 
   
