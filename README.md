@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abdul-Rafay.
+- 👋 Hi, I’m Abdul Rafay.
 - 👀 I’m interested in Web Development.
 - 🌱 I've completed my html & css & javascript learning. I’m currently practicing projects in javascript. .
 - 📫 U can e-mail me at abdulrafay500p@gmail.com
